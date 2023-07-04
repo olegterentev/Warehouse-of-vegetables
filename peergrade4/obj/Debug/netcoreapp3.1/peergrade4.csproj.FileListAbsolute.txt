@@ -1,0 +1,13 @@
+C:\Users\olegt\source\repos\peergrade4\peergrade4\bin\Debug\netcoreapp3.1\peergrade4.exe
+C:\Users\olegt\source\repos\peergrade4\peergrade4\bin\Debug\netcoreapp3.1\peergrade4.deps.json
+C:\Users\olegt\source\repos\peergrade4\peergrade4\bin\Debug\netcoreapp3.1\peergrade4.runtimeconfig.json
+C:\Users\olegt\source\repos\peergrade4\peergrade4\bin\Debug\netcoreapp3.1\peergrade4.runtimeconfig.dev.json
+C:\Users\olegt\source\repos\peergrade4\peergrade4\bin\Debug\netcoreapp3.1\peergrade4.dll
+C:\Users\olegt\source\repos\peergrade4\peergrade4\bin\Debug\netcoreapp3.1\peergrade4.pdb
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.csprojAssemblyReference.cache
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.AssemblyInfoInputs.cache
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.AssemblyInfo.cs
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.csproj.CoreCompileInputs.cache
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.dll
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.pdb
+C:\Users\olegt\source\repos\peergrade4\peergrade4\obj\Debug\netcoreapp3.1\peergrade4.genruntimeconfig.cache
